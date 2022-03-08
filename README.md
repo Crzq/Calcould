@@ -5,7 +5,7 @@ Calcould  v1.0.0
 
 简体中文|[English](#En)
 
-[项目主页](https://github.com/Crzq/Calcould/)
+## [项目主页](https://github.com/Crzq/Calcould/)
 
 一个计算器，使用 Electron 开发，陆续会增加更多功能。
 ---
@@ -48,7 +48,7 @@ Calcould  v1.0.0
 
 English|[简体中文](#Ch)
 
-## [Home](http://guodongxiaren.github.io/QCounter)
+## [Home](https://github.com/Crzq/Calcould/)
 
 This is a calculator developed by Electron.js. More interesting functions will be added gradually. 
 ---
