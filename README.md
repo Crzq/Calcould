@@ -2,6 +2,11 @@
 
 Calcould  v1.0.0
 =============
+[![](https://img.shields.io/github/watchers/Crzq/Calcould.svg?style=flat)](https://github.com/Crzq/Calcould/watchers)
+[![](https://img.shields.io/github/stars/Crzq/Calcould.svg?style=flat)](https://github.com/Crzq/Calcould/stargazers)
+[![](https://img.shields.io/github/forks/Crzq/Calcould.svg?style=flat)](https://github.com/Crzq/Calcould/network/members)
+[![](https://img.shields.io/github/issues-pr-closed-raw/Crzq/Calcould.svg?style=flat)](https://github.com/Crzq/Calcould/issues)
+![](https://img.shields.io/github/repo-size/Crzq/Calcould.svg?style=flat)
 
 简体中文|[English](#En)
 
