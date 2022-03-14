@@ -45,7 +45,7 @@ Calcould  v2.0.0
 
 
 ## 贡献者
-[yangcang233](https://github.com/yangcang233)、[Crzq](https://github.com/Crzq)、......
+[yangcang233](https://github.com/yangcang233)、[Crzq](https://github.com/Crzq)、[longwoif](https://github.com/longwoif)、......<br>
 <a title="Crzq" href="https://github.com/Crzq"><img src="https://avatars.githubusercontent.com/u/41958119?v=4" width="100" alt="profile picture of Crzq"></a>
 <a title="yangcang233" href="https://github.com/yangcang233"><img src="https://avatars.githubusercontent.com/u/100249118?v=4" width="100" alt="profile picture of yangcang233"></a>
 <a title="longwoif" href="https://github.com/longwoif"><img src="https://avatars.githubusercontent.com/u/100250459?v=4" width="100" alt="profile picture of longwolf"></a>
