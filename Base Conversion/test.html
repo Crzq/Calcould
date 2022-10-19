@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<input type="text" value="12*2"/>
+<button>1</button>
+<button>2</button>
+<button>3</button>
+<button>4</button>
+<button>5</button>
+<p></p>
+<script>
+    const btn = document.getElementsByTagName('button');
+    for (let i in btn) {
+        btn[i].onclick = function () {
+            // document.getElementsByTagName('p')[0].innerHTML = eval(2*5);
+            document.getElementsByTagName('input')[0].value = eval(2*5);
+        }
+    }
+</script>
+</body>
+</html>

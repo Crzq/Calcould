@@ -9,7 +9,7 @@ app.on('ready', () => {
         height:652,
         icon: path.join(__dirname, './icons/logo.ico'),
     })
-    mainWindow.loadFile('index.html'); // 加载html页面
+    mainWindow.loadFile('Standard/index.html'); // 加载html页面
     mainWindow.on('closed', () => {
         mainWindow = null;
     });
