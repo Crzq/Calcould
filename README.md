@@ -45,12 +45,6 @@ deb包安装好后在终端中输入 calcould 即可运行
 v3.0.0
 * 新增 **自定义算式** 功能
 
-## 贡献者
-[Crzq](https://github.com/Crzq)、[yangcang233](https://github.com/yangcang233)、[longwoif](https://github.com/longwoif)、......<br>
-<a title="Crzq" href="https://github.com/Crzq"><img src="https://avatars.githubusercontent.com/u/41958119?v=4" width="100" alt="profile picture of Crzq"></a>
-<a title="yangcang233" href="https://github.com/yangcang233"><img src="https://avatars.githubusercontent.com/u/100249118?v=4" width="100" alt="profile picture of yangcang233"></a>
-<a title="longwoif" href="https://github.com/longwoif"><img src="https://avatars.githubusercontent.com/u/100250459?v=4" width="100" alt="profile picture of longwolf"></a>
-
 
 <a name="En"/>
 
