@@ -48,6 +48,7 @@ function operatorEql() {
     /*
     0.1+0.2=0.30000000000000004
     19.9*100=1989.9999999999998
+    10/3=3.3333333333333335
      */
     if (thValue === "0.1+0.2" || thValue === "0.2+0.1") {
         document.getElementById('result').innerHTML = "0.3";

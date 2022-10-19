@@ -14,6 +14,15 @@ Calcould
 一个计算器，使用 Electron 开发，陆续会增加更多功能。
 ---
 
+#### Standard
+
+![](.\blob\Standard.gif "Standard")
+
+![](.\blob\Base Conversion.gif "Conversion")
+
+![](.\blob\Custom.gif "Custom")
+
+
 ## 开发环境
 * Node.js         v16.17.0
 * Electron.js    v20.0.3
@@ -58,7 +67,7 @@ This is a calculator developed by Electron.js. More interesting functions will b
 ## Development Environment
 * Node.js 	     v16.13.1
 * Electron.js     v16.0.5
- 
+
 
 After deb package is installed, enter calcould in terminal to run
 
