@@ -58,7 +58,7 @@ This is a calculator developed by Electron.js. More interesting functions will b
 ## Development Environment
 * Node.js 	     v16.13.1
 * Electron.js     v16.0.5
-* ***Dependencies***   are in the folder  **node_modules** 
+ 
 
 After deb package is installed, enter calcould in terminal to run
 
