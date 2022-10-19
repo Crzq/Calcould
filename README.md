@@ -1,4 +1,4 @@
-<a name="Ch"/>
+<a name="Ch"></a>
 
 Calcould
 =============
@@ -17,7 +17,7 @@ Calcould
 ## 开发环境
 * Node.js         v16.17.0
 * Electron.js    v20.0.3
-* **依赖包**    于 node_modules 文件夹
+
 
 deb包安装好后在终端中输入 calcould 即可运行
 
